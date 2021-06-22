@@ -1,3 +1,3 @@
-nama : dwi muhamad hisyam
-nim : 1955201186
-prodi : ilkom 4b
+nama : wardatuts tsaniyah
+nim : 1955201203
+prodi : ilmu komputer 4b
